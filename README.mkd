@@ -1,0 +1,5 @@
+
+SQLMatic
+========
+
+SQLMatic is a sql-generating ORM similar in philosophy to MongoMatic.
